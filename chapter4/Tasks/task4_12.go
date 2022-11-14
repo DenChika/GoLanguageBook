@@ -1,8 +1,8 @@
 package main
 
 import (
-	"chapter4/Tasks/xkcd"
 	"fmt"
+	"golang_book/chapter4/Tasks/xkcd"
 	"log"
 	"os"
 )

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"chapter4/github"
 	"fmt"
+	"golang_book/chapter4/github"
 	"log"
 	"os"
 	"sort"

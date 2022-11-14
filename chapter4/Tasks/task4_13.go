@@ -1,8 +1,8 @@
 package main
 
 import (
-	"chapter4/Tasks/poster"
 	"fmt"
+	"golang_book/chapter4/Tasks/poster"
 	"os"
 	"strings"
 )
